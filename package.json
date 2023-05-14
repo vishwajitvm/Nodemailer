@@ -1,0 +1,28 @@
+{
+  "name": "nodemailer_-using_ethereal",
+  "version": "1.0.0",
+  "description": "send emails using Nodemailer in an Express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwajitvm/Nodemailer.git"
+  },
+  "keywords": [
+    "vishwajit",
+    "vm"
+  ],
+  "author": "vishwajit vm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwajitvm/Nodemailer/issues"
+  },
+  "homepage": "https://github.com/vishwajitvm/Nodemailer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.2"
+  }
+}
